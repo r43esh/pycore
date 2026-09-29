@@ -15,7 +15,7 @@ if a is b and c is d:
 else:
     print("not same")
 """
-both pairs says the values are same so that is because python sees assigns same obj for same value
+both pairs says the values are same and that is because python sees assigns same obj for same value
 in the beginning if values are same so we should not use "is" for checking instead
 we can use == for values
 """
